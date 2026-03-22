@@ -6,7 +6,7 @@ body{
 	align-items:center;
 	min-height:100vh;
 	margin:0;
-	font-family:'Segeo UI',sans-serif;
+	font-family:'Segoe UI',sans-serif;
 }
 
 .container{
@@ -14,7 +14,7 @@ body{
 	background:white;
 	border-radius:20px;
 	box-shadow:0 10px 30px rgba(0,0,0,0.1);
-	overflow:hidden;
+	overflow: hidden;
 }
 
 .product{
@@ -31,7 +31,7 @@ body{
 	align-items:center;
 }
 
-.phoyo-main img{
+.photo-main img{
 	width:100%;
 	max-width:400px;
 	height:400px;
@@ -79,7 +79,7 @@ body{
 
 .variant ul{
 	display:flex;
-	gap;15px;
+	gap:15px;
 	list-style:none;
 	padding:0;
 }
